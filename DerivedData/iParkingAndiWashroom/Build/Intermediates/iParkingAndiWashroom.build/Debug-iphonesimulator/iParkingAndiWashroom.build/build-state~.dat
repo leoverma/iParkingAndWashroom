@@ -1,0 +1,333 @@
+TiParkingAndiWashroom
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist iParkingAndiWashroom/iParkingAndiWashroom-Info.plist
+cProcessPCH /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom normal i386
+cGenerateDSYMFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom
+cCopyStringsFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/InfoPlist.strings iParkingAndiWashroom/en.lproj/InfoPlist.strings
+cCpResource iParkingAndiWashroom/Default.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png
+cCpResource iParkingAndiWashroom/Default@2x.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png
+cCpResource iParkingAndiWashroom/Default-568h@2x.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png
+cCompileStoryboard /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard
+cTouch /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506FCE000000000000228FD0
+t1349504512
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000506FCE0200000000003DCEF0
+t1349504514
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000506FCE0200000000000015F7
+t1349504514
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506FCE080000000000000E8D
+t1349504520
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506FCE0A0000000000AB3D60
+t1349504522
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000506FCE1E0000000000001B54
+t1349504542
+s6996
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/iParkingAndiWashroom.LinkFileList
+c000000005222F03D0000000000000266
+t1378021437
+s614
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/PkgInfo
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom
+t2
+s0
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m
+c000000005222F01100000000000007E7
+t1378021393
+s2023
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m
+c000000005222F01200000000000001FD
+t1378021394
+s509
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/InfoPlist.strings
+c000000005222F011000000000000002D
+t1378021393
+s45
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard
+c000000005222F012000000000000061D
+t1378021394
+s1565
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard
+c000000005222F0120000000000000603
+t1378021394
+s1539
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch
+c000000005222F0110000000000000157
+t1378021393
+s343
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m
+c000000005222F0110000000000000160
+t1378021393
+s352
+
+NiParkingAndiWashroom/iParkingAndiWashroom-Info.plist
+c000000005222F011000000000000064A
+t1378021393
+s1610
+
+CBuild AST from /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m
+r0
+
+CBuild AST from /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m
+r0
+
+CBuild AST from /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7aa65bbd27d3b741^80d87ebd27d3b741^---0#1#0#--18"Check dependencies36"30177ACC-0D52-4D43-9694-30F9BD796554-
+
+CCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399714238.908974
+e399714239.260811
+r1
+xCompileC
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m5b43edbe27d3b741^2ac542bf27d3b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m0000000000000000^4597"CompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o iParkingAndiWashroom/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-generated-files.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-own-target-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-all-target-headers.hmap -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-project-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources/i386 -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources -F/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator -include /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch -MMD -MT dependencies -MF /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.dia -c /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/AppDelegate.m -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/AppDelegate.o36"1105F778-77A1-4BD7-861B-54D6EC143855-
+
+CCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399714239.175623
+e399714239.319298
+r1
+xCompileC
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m28282dbf27d3b741^1fbd51bf27d3b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m0000000000000000^4615"CompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o iParkingAndiWashroom/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-generated-files.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-own-target-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-all-target-headers.hmap -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-project-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources/i386 -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources -F/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator -include /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch -MMD -MT dependencies -MF /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.dia -c /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/ViewController.m -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/ViewController.o36"9AFA2597-E737-4A89-8D2A-33CECB569922-
+
+CCompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399714238.895973
+e399714239.174336
+r1
+xCompileC
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m2bc3e8be27d3b741^d5b32cbf27d3b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m0000000000000000^4555"CompileC /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o iParkingAndiWashroom/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-generated-files.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-own-target-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-all-target-headers.hmap -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-project-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources/i386 -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources -F/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator -include /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch -MMD -MT dependencies -MF /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.dia -c /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/main.m -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/main.o36"CF0D1DC4-A3F9-49E0-9862-A6A477D85DB9-
+
+CCompileStoryboard /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard
+s399714240.664843
+e399714240.738526
+r1
+xCompileStoryboard
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CompileStoryboard iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard0935abc027d3b741^b822bdc027d3b741^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1094"CompileStoryboard iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/MainStoryboard_iPad.storyboardc /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"C066F8C6-9705-46FE-BA3E-A7F3DA7A0DB9-
+
+CCompileStoryboard /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard
+s399714240.421409
+e399714240.663565
+r1
+xCompileStoryboard
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CompileStoryboard iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboarde8f96bc027d3b741^20efa9c027d3b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1100"CompileStoryboard iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/MainStoryboard_iPhone.storyboardc /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"13B691D7-D242-457A-86A6-1E05C943C9E8-
+
+CCopyStringsFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/InfoPlist.strings iParkingAndiWashroom/en.lproj/InfoPlist.strings
+s399714240.376674
+e399714240.405998
+r1
+xCopyStringsFile
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/InfoPlist.strings
+xiParkingAndiWashroom/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy iParkingAndiWashroom/en.lproj/InfoPlist.strings4c8960c027d3b741^f2ef67c027d3b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/en.lproj/InfoPlist.strings0000000000000000^783"CopyStringsFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj/InfoPlist.strings iParkingAndiWashroom/en.lproj/InfoPlist.strings    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/en.lproj -- iParkingAndiWashroom/en.lproj/InfoPlist.strings36"F78BD421-194D-45BD-93AF-A405702A86C0-
+
+CCpResource iParkingAndiWashroom/Default-568h@2x.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png
+s399714240.416586
+e399714240.420138
+r1
+xCpResource
+xiParkingAndiWashroom/Default-568h@2x.png
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Copy /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png5ebd6ac027d3b741^f38e6bc027d3b741^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png000000000080d041^837"CpResource "iParkingAndiWashroom/Default-568h@2x.png" "/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default-568h@2x.png"    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default-568h@2x.png" /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app36"2B43B974-8047-443E-8BC8-60DF5CAF140B-
+
+CCpResource iParkingAndiWashroom/Default.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png
+s399714240.407318
+e399714240.410614
+r1
+xCpResource
+xiParkingAndiWashroom/Default.png
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Copy /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.pngf75a68c027d3b741^641e69c027d3b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png000000000080d041^807"CpResource iParkingAndiWashroom/Default.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default.png    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app36"C25625EF-8F18-42C7-8073-BB66EB10BA7F-
+
+CCpResource iParkingAndiWashroom/Default@2x.png /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png
+s399714240.411924
+e399714240.415258
+r1
+xCpResource
+xiParkingAndiWashroom/Default@2x.png
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Copy /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.pngad8969c027d3b741^83506ac027d3b741^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png000000000080d041^822"CpResource "iParkingAndiWashroom/Default@2x.png" "/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Default@2x.png"    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/Default@2x.png" /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app36"5C8019D2-E814-4884-909B-7EEC87C66588-
+
+CGenerateDSYMFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom
+s399714240.047070
+e399714240.369033
+r1
+xGenerateDSYMFile
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Generating /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM55320cc027d3b741^35795ec027d3b741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM000000000080d041^990"GenerateDSYMFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app.dSYM36"3CB7E39A-604B-4184-B729-74DD460B4D80-
+
+CLd /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom normal i386
+s399714239.326041
+e399714240.040093
+r1
+xLd
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Link /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom4a9653bf27d3b741^b7440ac027d3b741^---0#0#0#--1537"Ld /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom normal i386    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator -F/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator -filelist /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/Objects-normal/i386/iParkingAndiWashroom.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/iParkingAndiWashroom36"FE1264B2-996D-4D62-82C7-7AC8AAF3ACF8-
+
+CProcessInfoPlistFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist iParkingAndiWashroom/iParkingAndiWashroom-Info.plist
+s399714237.501580
+e399714237.506220
+r1
+xProcessInfoPlistFile
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist
+xiParkingAndiWashroom/iParkingAndiWashroom-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process iParkingAndiWashroom/iParkingAndiWashroom-Info.plistdf8a80bd27d3b741^fb3e8cbd27d3b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/iParkingAndiWashroom-Info.plist0000000000000000^943"ProcessInfoPlistFile /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist iParkingAndiWashroom/iParkingAndiWashroom-Info.plist    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iParkingAndiWashroom/iParkingAndiWashroom-Info.plist -genpkginfo /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app/Info.plist36"7D41CFB1-CA53-49B0-946D-754FB2E329B1-
+
+CProcessPCH /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399714237.515426
+e399714238.852309
+r1
+xProcessPCH
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth
+xiParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch80448bbd27d3b741^6abcdcbe27d3b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch0000000000000000^4433"ProcessPCH /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-generated-files.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-own-target-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-all-target-headers.hmap -iquote /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/iParkingAndiWashroom-project-headers.hmap -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources/i386 -I/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/iParkingAndiWashroom.build/Debug-iphonesimulator/iParkingAndiWashroom.build/DerivedSources -F/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.dia -c /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom/iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch -o /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.pth -MMD -MT dependencies -MF /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Intermediates/PrecompiledHeaders/iParkingAndiWashroom-Prefix-dmmdgjpshmxgcdemfvggfuzlzqsv/iParkingAndiWashroom-Prefix.pch.d36"49A1F6E5-6FF6-462F-8DDB-E9891DED0E85-
+
+CProcessPCH /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Index/PrecompiledHeaders/iParkingAndiWashroom-Prefix-agcmanfyjdiekdeqhgwkthfwaysn_ast/iParkingAndiWashroom-Prefix.pch.pth iParkingAndiWashroom/iParkingAndiWashroom-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app
+s399714240.746722
+e399714240.852284
+r1
+xTouch
+x/Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Touch /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app2d40bfc027d3b741^1842dac027d3b741^---0#0#0#--570"Touch /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app    cd /Volumes/d/Work/IPhone/iParkingAndWashroom/iParkingAndiWashroom    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/d/Work/IPhone/iParkingAndWashroom/DerivedData/iParkingAndiWashroom/Build/Products/Debug-iphonesimulator/iParkingAndiWashroom.app36"ED29254A-36E7-4CFB-9325-34CC4F179AA9-
+
